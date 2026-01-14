@@ -84,7 +84,6 @@ You are fighting **The Staff**—high-level programs who are wealthy, powerful, 
 > 🟡 **"Rewriting source c-code... 0%... 1%... 2%... WAIT, WHERE IS THE REST OF ME?"**
 
 * **Current State:** Pre-Alpha / Concept.
-* **Engine:** [Godot / Unity]
 * **Next Update:** Initialization.
 
 ---
