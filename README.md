@@ -16,7 +16,7 @@
 
 **SEGFAULT: CASINO** is a high-stakes RPG where the UI is the world and the code is crumbling.
 * **Genre:** Deckbuilder / Roguelike / RPG.
-* **Inspiration:** The strategy of *Slay the Spire*, the style of *Persona 5*, and the existential dread of being deleted.
+* **Inspiration:** The strategy of *Slay the Spire*, the style of *Balatro*, and the existential dread of being deleted.
 
 ---
 
