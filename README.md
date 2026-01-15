@@ -71,7 +71,7 @@ We roll a die on the screen.
 
 > 🟣 **"A bunch of arrogant corporate AI who think they own the server. They treat me like a bug. I'm going to show them I'm a feature."**
 
-You are fighting **The Staff**—high-level programs who are wealthy, powerful, and desperate to delete us.
+You are fighting **The Staff** high-level programs who are wealthy, powerful, and desperate to delete us.
 
 * **Security Bots**
 * **Slot Machine Mimics**
